@@ -13,6 +13,7 @@ class ArrayList {
         Object temp[] = new Object[len];
         System.arraycopy(list, 0, temp, 0, size());
         list = temp;
+        //2123123123123123123
     }
 
     public void add(Object o){
